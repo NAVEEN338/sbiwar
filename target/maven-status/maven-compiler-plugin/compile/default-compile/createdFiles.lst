@@ -1,0 +1,14 @@
+sbi\util\RewriteConfigurationProvider$1.class
+sbi\rest\JaxRsActivator.class
+sbi\controller\MemberController.class
+sbi\util\Resources.class
+sbi\data\MemberRepository.class
+sbi\controller\PageBean.class
+sbi\model\Member.class
+sbi\model\Member_.class
+sbi\rest\MemberResourceRESTService.class
+sbi\util\UAgentInfo.class
+sbi\data\MemberListProducer.class
+sbi\util\UserAgent.class
+sbi\util\RewriteConfigurationProvider.class
+sbi\service\MemberRegistration.class
